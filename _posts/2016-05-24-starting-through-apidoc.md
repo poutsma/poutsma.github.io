@@ -1,15 +1,12 @@
 ---
 layout: post
-title: "Starting through Javadoc"
+title: "Starting through API documentation"
 subtitle: "You never get a second chance to make a first impression"
 description: ""
 category: 
-tags: []
+tags: [spring, beginner]
 ---
 {% include JB/setup %}
-
-# Starting through API documentation
-
 When someone is learning about your framework or library, they will often do so via API documentation.
 In the API documentation, you will document the public types that make up your API.
 If you have a lot of API, like we do in the [Spring Framework](http://projects.spring.io/spring-framework/), you will end up with a lot of documentation.
