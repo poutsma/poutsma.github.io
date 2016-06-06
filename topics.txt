@@ -1,3 +1,4 @@
 - Intellisense as API entry
 - Fluent API as way to forego illegal state
-- as... vs to...
+- RestTemplate String parameters vs URI parameters
+- layering of interfaces (WebServiceMessage vs SoapMessage)
