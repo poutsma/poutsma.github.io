@@ -2,3 +2,5 @@
 - Fluent API as way to forego illegal state
 - RestTemplate String parameters vs URI parameters
 - layering of interfaces (WebServiceMessage vs SoapMessage)
+- Mirror existing API (Joel on Software on Microsoft Word)
+- API design by paving the cowpaths (http://designingsocialinterfaces.com/patterns/Pave_the_Cowpaths)
